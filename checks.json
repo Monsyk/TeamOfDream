@@ -1,0 +1,26 @@
+{
+  "menu_items": 22,
+  "menu_photos": 22,
+  "normalized_photos": 22,
+  "food_frames": "no border or letterbox bands; equal photo/text height on desktop; stacked on mobile",
+  "photos_pending": 0,
+  "photo_print_price_rub": 50,
+  "phone": "+79185082125",
+  "categories": {
+    "author": 4,
+    "coffee": 6,
+    "drinks": 4,
+    "food": 8
+  },
+  "video_slots": 0,
+  "broken_local_refs": 0,
+  "duplicate_ids": 0,
+  "external_initial_resources": 0,
+  "map_tiles": "lazy-loaded OpenStreetMap tiles when map enters viewport",
+  "approximate_area_radius_m": 200,
+  "cinematic_scroll": "time-based damping; transform-only scene; finite frames at rest; mobile/reduced-motion fallback",
+  "total_static_bytes": 4340612,
+  "first_screen_core_raw_bytes_excluding_lazy_resources": 279988,
+  "gzip_html_css_js_bytes": 23835,
+  "browser_visual_qa": "Chrome desktop and 390px iframe through managed preview: menu, basket, persistence, photo upload/reset, printer, map. No physical-device or Core Web Vitals benchmark"
+}
